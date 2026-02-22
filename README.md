@@ -1,4 +1,9 @@
 # ☕ DAppFund – Web3 Donation App
+<img width="1536" height="1024" alt="ChatGPT Image Feb 22, 2026, 08_24_17 PM" src="https://github.com/user-attachments/assets/5d18be07-7b20-4d01-94be-97302e97667f" />
+
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
+[![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
+
 
 **Live Demo:**  
 https://dapp-buy-coffee-five.vercel.app/
